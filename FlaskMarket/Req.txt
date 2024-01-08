@@ -1,0 +1,9 @@
+pip install flask
+
+*
+(i)set FLASK_APP=<file name> #to execute the py file
+(ii)flask run #to run
+
+*set FLASK_DEBUG=1 #we won't require to run our page again and again
+
+pip install flask-sqlalchemy
